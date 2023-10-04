@@ -19,18 +19,19 @@ I'm in Tech passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psycholo
 <!-- Skills Section -->
 ## Skills
 
-- Programming Languages: [List Languages, e.g., Python, JavaScript]
-- Web Development: [List Frameworks, e.g., React, Node.js]
-- Data Science: [List Tools, e.g., Pandas, Scikit-Learn]
-- Databases: [List Databases, e.g., MongoDB, SQL]
+- Programming Languages: Python, JavaScript, Go
+- Web Development: React, Node.js, Next.js, Angular
+- Data Science: Pandas, Scikit-Learn, Tensorflow
+- Databases: MongoDB, SQL, Druid
 <!-- - Other Skills: [List any other relevant skills] -->
 
-<!-- Projects Section -->
+<!-- Projects Section 
 ## Featured Projects
 
 - [Portofolio](Link to Project): 
 - [Project Name](Link to Project): 
 - [Project Name](Link to Project):
+-->
 
 <!-- Achievements Section 
 ## Achievements
@@ -52,7 +53,7 @@ Feel free to connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/dominic-meconi/))
 <!-- - [Twitter]() -->
-- [Personal Website/Blog](https://www.domec.dev/)
+- [Personal Website](https://www.domec.dev/)
 
 <!-- Footer Section -->
 ### Thanks for visiting my profile! Let's connect and collaborate on exciting projects!
