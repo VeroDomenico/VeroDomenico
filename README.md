@@ -43,7 +43,7 @@ I'm in Tech passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psycholo
 Feel free to connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/dominic-meconi/))
-- <!--[Twitter]() -->
+<!-- - [Twitter]() -->
 - [Personal Website/Blog](https://www.domec.dev/)
 
 <!-- Footer Section -->
