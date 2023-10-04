@@ -4,15 +4,17 @@
 I'm in Tech passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psychology, and Gym in my free time.
 
 <!-- GitHub Stats Section -->
-## GitHub Stats
-<div style="display: flex; justify-content: space-between; width: 500px;">
-    <a href="https://github.com/VeroDomenico">
-        <img src="https://github-readme-stats.vercel.app/api?username=VeroDomenico&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+<div style="display: flex; justify-content: space-between; max-width: 500px;">
+    <a href="https://github.com/VeroDomenico" style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=VeroDomenico&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%; height: auto;">
     </a>
-    <a href="https://github.com/anuraghazra">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical" alt="Top Langs" width="48%">
+    <a href="https://github.com/VeroDomenico" style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroDomenico&theme=radical&layout=compact" alt="Top Langs" style="width: 38%; height: auto;">
     </a>
 </div>
+
+
+
 
 <!-- Skills Section -->
 ## Skills
