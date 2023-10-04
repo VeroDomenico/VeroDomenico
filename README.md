@@ -1,12 +1,12 @@
 <!-- Introduction Section -->
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Dominic 👋
 
-I'm a [Your Profession] passionate about [Your Interests]. I enjoy [Your Hobbies] in my free time.
+I'm in Tech passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psychology, and Gym in my free time.
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeroDomenico&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Skills Section -->
 ## Skills
