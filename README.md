@@ -20,7 +20,7 @@ I'm in Tech passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psycholo
 <!-- Projects Section -->
 ## Featured Projects
 
-- [Project Name](Link to Project): 
+- [Portofolio](Link to Project): 
 - [Project Name](Link to Project): 
 - [Project Name](Link to Project):
 
