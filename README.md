@@ -5,9 +5,14 @@ I'm in Tech passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psycholo
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeroDomenico&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between; width: 500px;">
+    <a href="https://github.com/VeroDomenico">
+        <img src="https://github-readme-stats.vercel.app/api?username=VeroDomenico&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+    </a>
+    <a href="https://github.com/anuraghazra">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical" alt="Top Langs" width="48%">
+    </a>
+</div>
 
 <!-- Skills Section -->
 ## Skills
