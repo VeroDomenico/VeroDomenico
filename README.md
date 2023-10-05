@@ -28,7 +28,7 @@ I'm in Tech passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psycholo
 
 ## LeetCode
 <div style="display: flex; justify-content: center; align-items: center; max-width: 500px; margin: 0 auto;">
-    <a href="https://leetcode.com/vero_domenico/ target="_blank">
+    <a href="https://leetcode.com/vero_domenico/" target="_blank">
         <img src="https://camo.githubusercontent.com/b499cf94d8acfc7f2ce4828baf9a5371852f38f17fb30470e41eb595049a2e16/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f7665726f5f646f6d656e69636f3f6578743d686561746d6170" alt="Image">
     </a>
 </div>
