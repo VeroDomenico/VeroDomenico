@@ -1,7 +1,7 @@
 <!-- Introduction Section -->
 # Hi there, I'm Dominic 👋
 
-I'm in Tech passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psychology, and Gym in my free time.
+I'm in Software passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psychology, and Gym in my free time.
 
 <!-- GitHub Stats Section -->
 <div style="display: flex; justify-content: space-between; max-width: 500px;">
