@@ -21,7 +21,7 @@ I'm in Software passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psyc
 <!-- Skills Section -->
 ## Skills
 
-- Programming Languages: Python, JavaScript, Go
+- Programming Languages: Python, JavaScript, Go, Java
 - Web Development: React, Node.js, Next.js, Angular
 - Data Science: Pandas, Scikit-Learn, Tensorflow
 - Databases: MongoDB, SQL, Druid
