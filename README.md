@@ -22,14 +22,10 @@ I'm in Software passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psyc
 ## Skills
 
 - Programming Languages: Python, JavaScript, Go, Java
-- Web Development: React, Node.js, Next.js, Angular
-- Data Science: Pandas, Scikit-Learn, Tensorflow
-- Databases: MongoDB, SQL, Druid
+- Web Development: React, Next.js
+- Data Science: Pandas
+- Databases: MongoDB, SQL, Dynamo Db
 
-## LeetCode
-
-
-<!-- - Other Skills: [List any other relevant skills] -->
 
 <!-- Projects Section 
 ## Featured Projects
