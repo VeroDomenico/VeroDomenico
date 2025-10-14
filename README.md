@@ -61,8 +61,6 @@ I'm in Software passionate about ML, CyberSecurity, CS. I enjoy Philosophy, Psyc
 
 Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/dominic-meconi/)
-<!-- - [Twitter]() -->
 - [Personal Website](https://www.domec.dev/)
 
 <!-- Footer Section -->
